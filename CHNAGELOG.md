@@ -10,4 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 -  Network example using Bloc and Stream.
 
-
+## [0.0.2] -2021-04-21
+- updated flutter version to 2.0.5
